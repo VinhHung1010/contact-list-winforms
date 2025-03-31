@@ -38,5 +38,10 @@ namespace ContactList
             this.Close(); // Đóng Form sau khi lưu
         
     }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
