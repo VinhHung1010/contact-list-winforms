@@ -36,7 +36,7 @@ namespace ContactList
             MessageBox.Show($"Đã lưu liên hệ: {hoTen} - {soDienThoai}", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             this.Close(); // Đóng Form sau khi lưu
-        
+            // them Form de them lien he - Cap nhat lan 2
     }
     }
 }
