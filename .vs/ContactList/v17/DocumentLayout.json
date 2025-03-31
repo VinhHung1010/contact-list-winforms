@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ContactList\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\contact-list-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7FDCA61-FB6C-460D-94BB-2336D43D27EF}|ContactList.\\ContactList.csproj|d:\\contactlist.\\contactlist.\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C7FDCA61-FB6C-460D-94BB-2336D43D27EF}|ContactList\\ContactList.csproj|c:\\users\\administrator\\source\\repos\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7FDCA61-FB6C-460D-94BB-2336D43D27EF}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,20 +25,20 @@
               "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\ContactList\\ContactList\\Form1.cs",
-              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
-              "ToolTip": "D:\\ContactList\\ContactList\\Form1.cs [Design]",
-              "RelativeToolTip": "ContactList\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T02:55:56.508Z",
-              "EditorCaption": " [Design]"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:35:13.599Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
